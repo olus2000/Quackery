@@ -5,8 +5,6 @@ In addition to this text file, you should find three pdf files, namely;
 
 The Book of Quackery.pdf             the Quackery manual
 The Book of Quackery for print.pdf   as above, but prints better
-                                     specifically recommended for use 
-                                     at http://print-my-pdf.com
 Quackery Quick Reference.pdf         a handy crib sheet
 
 and four text files;
@@ -44,5 +42,5 @@ International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by/4.0/ or send a letter to
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-Gordon Charlton, 2021.
+Gordon Charlton, 2022.
 gordonrcharlton {at} gmail {dot} com
